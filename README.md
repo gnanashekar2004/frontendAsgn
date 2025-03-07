@@ -40,12 +40,6 @@ The hierarchy should follow the structure below:
 - Ensure the hierarchy is **clearly visible** and **easy to understand**.
 - You may explore different **design layouts**, as long as the structure remains intact.
 
-## Suggested Features (Optional)
-- **Collapsible Sections**: Use JavaScript to allow expanding/collapsing different levels.
-- **Hover Effects**: Highlight items when hovered over.
-- **Icons/Indicators**: Use icons to represent expandable/collapsible elements.
-- **Responsive Design**: Ensure the structure is visible on different screen sizes.
-
 ## Example Screenshot
 - Top Most Level
 ![Level](./assets/level.png)
